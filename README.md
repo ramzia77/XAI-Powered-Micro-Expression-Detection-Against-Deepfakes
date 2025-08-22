@@ -75,7 +75,7 @@
 - **Image upload mode:** Predict emotion from static images.
 - **Visualizations:** Planned Grad-CAM heatmaps and deepfake confidence scores.
 
-_Add sample screenshots or GIFs to `/docs` and link them here once available._
+<img width="231" height="250" alt="image" src="https://github.com/user-attachments/assets/267d5084-559e-40ac-8fa0-1af955455065" />
 
 ---
 
